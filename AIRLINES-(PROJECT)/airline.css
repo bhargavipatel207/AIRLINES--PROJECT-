@@ -68,7 +68,7 @@
     justify-content: space-evenly;
 }
 .box2 {
-    height: 900px;
+    height: 1000px;
     width: 30vw;
     /* border: 1px solid green; */
     margin: 0 35px;
@@ -213,7 +213,7 @@ h2 {
 .box3 {
     margin: 5px;
     width: 55vw;
-    height: 900px;
+    height: 1000px;
     background-color: #f0eaea;    
 } 
 .intro h1 {
